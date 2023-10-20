@@ -38,7 +38,7 @@ If you have questions or need assistance, please feel free to [contact us](mailt
 
 ## Example Screenshot
 
-![Screenshot]([screenshot.png](https://ibb.co/Gdv5g9R))
+![Screenshot](https://ibb.co/Gdv5g9R)
 
 Caption: This is an example screenshot of the application in action.
 
