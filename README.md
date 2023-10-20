@@ -36,6 +36,12 @@ We welcome contributions! If you'd like to improve this project, please follow o
 
 If you have questions or need assistance, please feel free to [contact us](mailto:srijonkumar18@gmail.com).
 
+## Example Screenshot
+
+![Screenshot]([screenshot.png](https://ibb.co/Gdv5g9R))
+
+Caption: This is an example screenshot of the application in action.
+
 ---
 
 Enjoy simple and privacy-focused real-time chatting with Simple Flask Chat App.
