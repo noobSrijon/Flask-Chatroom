@@ -2,7 +2,7 @@
 
 Flask-Chatroom is a minimalist real-time chat application built with the Flask web framework. This lightweight chat solution allows users to engage in text-based conversations without the need for user authentication.
 
-Watch it live: (https://chatapp.srijonkumar.repl.co/)
+Watch it live: https://chatapp.srijonkumar.repl.co/
 
 ## Features
 
