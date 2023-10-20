@@ -99,7 +99,7 @@ h1 {
 .myusername {
     font-size: 12px;
     position: absolute;
-    left:auto; /* Adjust the value to move it to the left */
+    left:auto; 
     top: 0;
     
     transform: translateY(-100%);
@@ -109,7 +109,7 @@ h1 {
     margin-bottom: 5px;
     font-size: 12px;
     position: absolute;
-    left: 0; /* Adjust the value to move it to the left */
+    left: 0; 
     top: 0;
     text-align:left;
     transform: translateY(-100%);
