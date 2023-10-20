@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.message-container {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    max-height: 500px;
+    margin: 10px auto;
+    width: 90%;
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+}
+
+.center-message {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    width: 60%;
+    text-align: center;
+}
+
+.my-message {
+    background-color: #b2ffb2;
+    border: 1px solid #5ba45b;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    max-width: 70%;
+    align-self: flex-end;
+    text-align: right;
+}
+
+.other-message {
+    background-color: #ccc;
+    border: 1px solid #999;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    max-width: 70%;
+    align-self: flex-start;
+    text-align: left;
+}
+
+.username {
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+#message-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+#message {
+    width: 80%;
+    height: 30px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+#send {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+#send:hover {
+    background-color: #0056b3;
+}
+.my-message {
+    position: relative;
+    margin-bottom: 15px;
+}
+.other-message {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.myusername {
+    font-size: 12px;
+    position: absolute;
+    left:auto; /* Adjust the value to move it to the left */
+    top: 0;
+    
+    transform: translateY(-100%);
+    margin-bottom: 5px;
+}
+.otherusername {
+    margin-bottom: 5px;
+    font-size: 12px;
+    position: absolute;
+    left: 0; /* Adjust the value to move it to the left */
+    top: 0;
+    text-align:left;
+    transform: translateY(-100%);
+}
+
+
+#submit-username {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 20px 40px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+#submit-username:hover {
+    background-color: #0056b3;
+}
